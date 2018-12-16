@@ -1,0 +1,18 @@
+:root {
+  --prime: #00cbf2;
+  --dark: #0f1c2a;
+  --light: #f8f8f8;
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  background: var(--dark);
+  color: var(--dark);
+}
