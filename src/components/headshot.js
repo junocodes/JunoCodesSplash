@@ -21,7 +21,7 @@ const HeadshotWrapper = styled.div`
 export default class Headshot extends Component {
   render() {
     return (
-      <Fade left>
+      <Fade left delay={300}>
         <HeadshotWrapper />
       </Fade>
     )

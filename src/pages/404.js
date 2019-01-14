@@ -9,9 +9,8 @@ const NotFoundPage = () => (
     <h1>Hello World!</h1>
     <p>
       My name is Justin Juno. I'm an infinitely curious javascript developer
-      from Whitehouse, Texas. Currently revamping my portfolio and exploring
-      React, GraphQL, and D3. A supporter of Styled Components. Possibly the
-      coolest dad of all-time.
+      from Whitehouse, Texas. Currently working on my portfolio and exploring
+      React, GraphQL, and Apollo. Striving to be the coolest dad of all-time.
     </p>
   </Layout>
 )

@@ -37,7 +37,7 @@ const ReactIcon = styled.div`
 export default class info extends Component {
   render() {
     return (
-      <Fade bottom>
+      <Fade bottom delay={300}>
         <InfoWrapper>
           <>{this.props.children}</>
           <Social />
