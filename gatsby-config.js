@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Justin Juno Codes | JavaScript Developer',
     description:
-      'My name is Justin Juno. I\'m an infinitely curious javascript developer from Whitehouse, Texas.',
+      'My name is Justin Juno. I\'m an infinitely curious developer and father of twins. Creator of DevDads and JS Unicorns',
     author: '@junocodes',
   },
   plugins: [

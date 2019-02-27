@@ -9,11 +9,12 @@ const HeadshotWrapper = styled.div`
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: multiply;
-  background-position: right top;
+  background-position: center bottom;
+  background-size: auto 92%;
     min-height: 100%;
-  @media (max-width: 660px) {
-    background-position: right top;
+  @media (max-width: 700px) {
         min-height: 420px;
+
 
   }
 `

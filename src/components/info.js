@@ -8,7 +8,6 @@ const rotate = keyframes`
   from {
     transform: rotate(0deg);
   }
-
   to {
     transform: rotate(360deg);
   }
@@ -21,6 +20,12 @@ const InfoWrapper = styled.div`
   text-align: left;
   background-color: var(--light);
   position: relative;
+  a:link, a:visited {
+    text-decoration: none;
+    color: var(--prime);
+  } a:hover, a:active {
+    color: var(--dark);
+  }
 `
 
 const ReactIcon = styled.div`

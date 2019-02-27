@@ -19,9 +19,9 @@ const Content = styled.div`
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 20px;
-  max-width: 760px;
+  max-width: 900px;
   width: 100%;
-  @media (max-width: 660px) {
+  @media (max-width: 700px) {
     grid-template-columns: 1fr;
   }
 `
